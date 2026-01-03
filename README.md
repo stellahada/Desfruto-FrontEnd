@@ -1,6 +1,6 @@
-# 🍓 Açaí FrontEnd
+# 🍓 Desfruto - FrontEnd
 
-O Açaí é o projeto de interface de um sistema para gerenciar pedidos de açaí. Este front-end foi desenvolvido para oferecer uma experiência amigável e responsiva para os usuários finais.
+O Desfruto é o projeto de interface de um sistema para gerenciar pedidos de açaí. Este front-end foi desenvolvido para oferecer uma experiência amigável e responsiva para os usuários finais.
 
 ![Dribbble (1)](https://github.com/user-attachments/assets/0f79ee45-d99d-49d0-af2b-8afc3d8e0dfc)
 ## 📦 Tecnologias Utilizadas
